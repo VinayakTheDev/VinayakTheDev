@@ -6,9 +6,9 @@
 
 # Namaste 🙏 Fellow Coders! I'm **[Vinayak Deshpande](http://vinayakthedev.com)** 👨🏽
 
-🏠 I’m currently living at Bangalore, India 🇮🇳.<br/>
-👨‍💻 I’m currently working as a Full-stack iOS Developer.<br/>
-🔭 I’m currently working on my open source projects.<br/>
+🏠 I’m currently living in Bangalore, India 🇮🇳.<br/>
+👨‍💻 I’m working as a Full-stack iOS Developer.<br/>
+🔭 I’m working on my open source projects.<br/>
  ☕️ I drink tea on bike rides and coffee while coding.<br/>
 
 ## Talking about Personal Stuffs:
