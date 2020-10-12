@@ -13,7 +13,7 @@
 
 ## Talking about Personal Stuffs:
 🛠 I’m currently working with **iOS(Swift), Android(Java) Nodejs, Express, React Native, Javascript, Spring, Hyperleder, Ethereum**.<br/>
-🌱 I’m learning Machine Learning and exploring **Product Management** and **Digital Marketing**.<br/>
+🌱 I’m learning **Machine Learning** and exploring **Product Management** and **Digital Marketing**.<br/>
 📫 How to reach me: **mailvnayak@gmail.com**<br/>
 📝 Checkout my **[resume](https://gitconnected.com/VinayakTheDev/resume)**.<br/>
 
